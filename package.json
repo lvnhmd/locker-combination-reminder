@@ -1,0 +1,30 @@
+{
+  "name": "locker-combination-reminder",
+  "version": "1.0.0",
+  "description": "Locker Combination Reminder, developed as part of job application interview process for Near St.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvnhmd/locker-combination-reminder.git"
+  },
+  "keywords": [
+    "locker",
+    "combination",
+    "reminder",
+    "near",
+    "street"
+  ],
+  "author": "Elvin Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvnhmd/locker-combination-reminder/issues"
+  },
+  "homepage": "https://github.com/lvnhmd/locker-combination-reminder#readme",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "lodash": "^4.17.15"
+  }
+}
