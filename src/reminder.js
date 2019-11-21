@@ -22,7 +22,6 @@ exports.remind = function() {
     r1.forEach(l1 => {
       r1.forEach(l2 => {
         rule2().forEach(l4 => {
-          let lock = [l1, l2, 0, l4, 0];
           digits.forEach(i => {
             digits.forEach(j => {
               let lock = [l1, l2, i, l4, j];
