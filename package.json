@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/lvnhmd/locker-combination-reminder#readme",
   "dependencies": {
-    "jest": "^24.9.0",
-    "lodash": "^4.17.15"
+    "jest": "^24.9.0"
   }
 }
